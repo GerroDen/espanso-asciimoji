@@ -1,0 +1,69 @@
+matches:
+  - trigger: ":angry:"
+    replace: ಠ_ಠ
+  - trigger: ":angrytableflip:"
+    replace: (╯‵□′)╯︵┻━┻
+  - trigger: ":atlassian:"
+    replace: ლ(ಠ_ಠლ)
+  - trigger: ":bitrise:"
+    replace: ლ(ಠ_ಠლ)
+  - trigger: ":butwhy:"
+    replace: ఠ_ఠ
+  - trigger: ":cats:"
+    replace: ฅ^•ﻌ•^ฅ
+  - trigger: ":confluence:"
+    replace: ლ(ಠ_ಠლ)
+  - trigger: ":creep:"
+    replace: ಠᴗಠ
+  - trigger: ":excited:"
+    replace: (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
+  - trigger: ":facepalm:"
+    replace: (－‸ლ)
+  - trigger: ":fightme:"
+    replace: (ง •̀_•́)ง
+  - trigger: ":gib:"
+    replace: ༼ つ ◕_◕ ༽つ gib
+  - trigger: ":hug:"
+    replace: (⊃｡•́‿•̀｡)⊃
+  - trigger: ":jira:"
+    replace: ლ(ಠ_ಠლ)
+  - trigger: ":kiss:"
+    replace: (づ￣ ³￣)づ
+  - trigger: ":love:"
+    replace: ヽ(♡‿♡)ノ
+  - trigger: ":meh:"
+    replace: ┐(￣ヮ￣)┌
+  - trigger: ":muscles:"
+    replace: ᕦ(ò_óˇ)ᕤ
+  - trigger: ":peek:"
+    replace: |
+             ┻┳|
+             ┳┻| _
+             ┻┳| •.•)
+             ┳┻|⊂ﾉ
+             ┻┳|
+  - trigger: ":sad:"
+    replace: ಥ_ಥ
+  - trigger: ":shrug:"
+    replace: ¯\_(ツ)_/¯
+  - trigger: ":success:"
+    replace: (•̀ᴗ•́)و ̑̑"
+  - trigger: ":tableback:"
+    replace: ┬──┬◡ﾉ(° -°ﾉ)
+  - trigger: ":tableflip:"
+    replace: (╯°□°）╯︵ ┻━┻
+  - trigger: ":tableflipsyou:"
+    replace: ノ┬─┬ノ ︵ ( \o°o)\
+  - trigger: ":walk:"
+    replace: ᕕ( ᐛ )ᕗ
+  - trigger: ":wizard:"
+    replace: (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+  - trigger: ":yay:"
+    replace: *:･ﾟ✧ ٩(◕‿◕｡)۶
+  - trigger: ":yeah:"
+    replace: |
+             ( •_•)
+             ( •_•)>⌐■-■
+             (⌐■_■) #Yeeeaaahhh
+  - trigger: ":yolo:"
+    replace: Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ
