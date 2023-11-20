@@ -1,69 +1,69 @@
 matches:
   - trigger: ":angry:"
-    replace: ಠ_ಠ
+    replace: "ಠ_ಠ"
   - trigger: ":angrytableflip:"
-    replace: (╯‵□′)╯︵┻━┻
+    replace: "(╯‵□′)╯︵┻━┻"
   - trigger: ":atlassian:"
-    replace: ლ(ಠ_ಠლ)
+    replace: "ლ(ಠ_ಠლ)"
   - trigger: ":bitrise:"
-    replace: ლ(ಠ_ಠლ)
+    replace: "ლ(ಠ_ಠლ)"
   - trigger: ":butwhy:"
-    replace: ఠ_ఠ
+    replace: "ఠ_ఠ"
   - trigger: ":cats:"
-    replace: ฅ^•ﻌ•^ฅ
+    replace: "ฅ^•ﻌ•^ฅ"
   - trigger: ":confluence:"
-    replace: ლ(ಠ_ಠლ)
+    replace: "ლ(ಠ_ಠლ)"
   - trigger: ":creep:"
-    replace: ಠᴗಠ
+    replace: "ಠᴗಠ"
   - trigger: ":excited:"
-    replace: (ﾉ◕ヮ◕)ﾉ*:・ﾟ✧
+    replace: "(ﾉ◕ヮ◕)ﾉ*:・ﾟ✧"
   - trigger: ":facepalm:"
-    replace: (－‸ლ)
+    replace: "(－‸ლ)"
   - trigger: ":fightme:"
-    replace: (ง •̀_•́)ง
+    replace: "(ง •̀_•́)ง"
   - trigger: ":gib:"
-    replace: ༼ つ ◕_◕ ༽つ gib
+    replace: "༼ つ ◕_◕ ༽つ gib"
   - trigger: ":hug:"
-    replace: (⊃｡•́‿•̀｡)⊃
+    replace: "(⊃｡•́‿•̀｡)⊃"
   - trigger: ":jira:"
-    replace: ლ(ಠ_ಠლ)
+    replace: "ლ(ಠ_ಠლ)"
   - trigger: ":kiss:"
-    replace: (づ￣ ³￣)づ
+    replace: "(づ￣ ³￣)づ"
   - trigger: ":love:"
-    replace: ヽ(♡‿♡)ノ
+    replace: "ヽ(♡‿♡)ノ"
   - trigger: ":meh:"
-    replace: ┐(￣ヮ￣)┌
+    replace: "┐(￣ヮ￣)┌"
   - trigger: ":muscles:"
-    replace: ᕦ(ò_óˇ)ᕤ
+    replace: "ᕦ(ò_óˇ)ᕤ"
   - trigger: ":peek:"
-    replace: |
+    replace: "|"
              ┻┳|
              ┳┻| _
              ┻┳| •.•)
              ┳┻|⊂ﾉ
              ┻┳|
   - trigger: ":sad:"
-    replace: ಥ_ಥ
+    replace: "ಥ_ಥ"
   - trigger: ":shrug:"
-    replace: ¯\_(ツ)_/¯
+    replace: "¯\_(ツ)_/¯"
   - trigger: ":success:"
-    replace: (•̀ᴗ•́)و ̑̑"
+    replace: "(•̀ᴗ•́)و ̑̑"
   - trigger: ":tableback:"
-    replace: ┬──┬◡ﾉ(° -°ﾉ)
+    replace: "┬──┬◡ﾉ(° -°ﾉ)"
   - trigger: ":tableflip:"
-    replace: (╯°□°）╯︵ ┻━┻
+    replace: "(╯°□°）╯︵ ┻━┻"
   - trigger: ":tableflipsyou:"
-    replace: ノ┬─┬ノ ︵ ( \o°o)\
+    replace: "ノ┬─┬ノ ︵ ( \o°o)\\"
   - trigger: ":walk:"
-    replace: ᕕ( ᐛ )ᕗ
+    replace: "ᕕ( ᐛ )ᕗ"
   - trigger: ":wizard:"
-    replace: (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
+    replace: "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ"
   - trigger: ":yay:"
-    replace: *:･ﾟ✧ ٩(◕‿◕｡)۶
+    replace: "*:･ﾟ✧ ٩(◕‿◕｡)۶"
   - trigger: ":yeah:"
-    replace: |
+    replace: "|"
              ( •_•)
              ( •_•)>⌐■-■
              (⌐■_■) #Yeeeaaahhh
   - trigger: ":yolo:"
-    replace: Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ
+    replace: "Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ"
