@@ -36,7 +36,7 @@ matches:
   - trigger: ":muscles:"
     replace: "ᕦ(ò_óˇ)ᕤ"
   - trigger: ":peek:"
-    replace: "|"
+    replace: |
              ┻┳|
              ┳┻| _
              ┻┳| •.•)
@@ -61,7 +61,7 @@ matches:
   - trigger: ":yay:"
     replace: "*:･ﾟ✧ ٩(◕‿◕｡)۶"
   - trigger: ":yeah:"
-    replace: "|"
+    replace: |
              ( •_•)
              ( •_•)>⌐■-■
              (⌐■_■) #Yeeeaaahhh
