@@ -53,7 +53,7 @@ matches:
   - trigger: ":tableflip:"
     replace: "(╯°□°）╯︵ ┻━┻"
   - trigger: ":tableflipsyou:"
-    replace: "ノ┬─┬ノ ︵ ( \o°o)\\"
+    replace: "ノ┬─┬ノ ︵ ( \\o°o)\\"
   - trigger: ":walk:"
     replace: "ᕕ( ᐛ )ᕗ"
   - trigger: ":wizard:"
