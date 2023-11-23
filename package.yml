@@ -45,7 +45,7 @@ matches:
   - trigger: ":sad:"
     replace: "ಥ_ಥ"
   - trigger: ":shrug:"
-    replace: "¯\_(ツ)_/¯"
+    replace: "¯\\_(ツ)_/¯"
   - trigger: ":success:"
     replace: "(•̀ᴗ•́)و ̑̑"
   - trigger: ":tableback:"
